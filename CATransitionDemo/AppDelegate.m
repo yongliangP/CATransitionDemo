@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  CATransitionDemo
 //
-//  Created by 彭永亮 on 16/9/1.
+//  Created by yongliangP on 16/9/1.
 //  Copyright © 2016年 yongliangP. All rights reserved.
 //
 

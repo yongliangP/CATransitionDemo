@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  YLCollectionViewCell.h
 //  CATransitionDemo
 //
 //  Created by yongliangP on 16/9/1.
@@ -8,10 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
+@interface YLCollectionViewCell : UICollectionViewCell
 
-@property (strong, nonatomic) UIWindow *window;
-
+@property (nonatomic, copy) NSString *title;
 
 @end
-
